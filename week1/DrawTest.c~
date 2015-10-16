@@ -1,0 +1,7 @@
+#include "graphics.h"
+
+int main(void) 
+{
+  drawArc(100, 50, 399, 249, 0, 60);
+  return 0;
+}
